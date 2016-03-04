@@ -1,3 +1,3 @@
 # test
 just a test
-!(scratch-snerting.JPG)
+![scratch snerting](scratch-snerting.JPG)
