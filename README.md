@@ -6,7 +6,11 @@
 <span class="mega-octicon octicon-octoface"></span>'''
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
-:innocent:
+:sweat_drops::innocent::sweat_drops:
+:one:
+:two:
+:three:
+:four:
 
 ## :goat::hamster: :goat::hamster: :goat: :rooster: :rooster::rabbit::rooster::rooster::rabbit:
 
