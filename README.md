@@ -8,6 +8,6 @@
 https://www.webfx.com/tools/emoji-cheat-sheet/
 :innocent:
 
-## :goat: :goat: :goat: :rooster: :rooster::rooster::rooster:
+## :goat::hamster: :goat::hamster: :goat: :rooster: :rooster::rabbit::rooster::rooster::rabbit:
 
 # :house_with_garden::hotel::house_with_garden::house_with_garden::house_with_garden::hotel::house_with_garden::house_with_garden:
